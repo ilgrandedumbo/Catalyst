@@ -1,4 +1,4 @@
-<h1>ReThirft</h1>
+<h1>ReThrift</h1>
 
 <h2>Table Of Contents</h2>
 
