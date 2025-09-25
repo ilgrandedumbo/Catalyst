@@ -3,10 +3,10 @@
 <h2>Table Of Contents</h2>
 
 - [1. Title](#1-title)
-- [2. What are we trying to fight?](#2-what-are-we-trying-to-fight)
-- [3. What Are We Aiming For?](#3-what-are-we-aiming-for)
-- [4. Target](#4-target)
-- [5. Main Functionalities](#5-main-functionalities)
+- [2. The Problem We’re Tackling](#2-the-problem-we-re-tackling)
+- [3. Our Goals](#3-our-goals)
+- [4. Target Audience](#4-target-audiance)
+- [5. Key Features](#5-key-features)
 - [6. Benefits](#6-benefits)
   - [Credits](#credits)
 
