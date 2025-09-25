@@ -73,4 +73,4 @@ Project developed by:
 * Pacilli Giosia  
 * Papini Niccolò  
 * Santovito Chiara  
-* Sardelli Chiara  
+* Sardelli Sofia  
