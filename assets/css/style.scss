@@ -5,63 +5,61 @@
 
 /* === Banner sopra (id=header) === */
 #header {
-  background: #2A5A4A !important;   /* Verde Bosco (scuro) */
-  background-image: none !important;
-  color: #EAE7E1 !important;        /* Grigio Chiaro (Juta) per il testo */
-  border-bottom: 3px solid #5AD69E; /* Verde Acqua per l'accetto */
+  background: #353930 !important;    /* grigio */
+  background-image: none !important; /* elimina gradiente nero */
+  color: #F0EAD6 !important;
+  border-bottom: 3px solid #505548;  /* opzionale */
 }
 
 /* Testo e link dentro all’header */
 #header h1, 
 #header h2, 
 #header a {
-  color: #EAE7E1 !important;        /* Testo chiaro su sfondo scuro */
+  color: #F0EAD6 !important;
 }
 #header a:hover {
-  color: #B06A3A !important;        /* Marrone Ruggine per l'hover */
+  color: #7AA870 !important;
 }
-
-/* ---------------------------------- */
 
 /* === Background e testo === */
 html, body {
-  background: #EAE7E1 !important;   /* Grigio Chiaro (Juta) */
+  background: #2E4A28 !important;   /* verde scuro come sfondo */
   background-image: none !important;
-  color: #403F4C;                   /* Grigio Scuro (Pietra) per il testo */
+  color: #F0EAD6;                   /* testo chiaro */
 }
 
 /* === Link === */
 a, a:visited {
-  color: #5AD69E !important;        /* Verde Acqua per i link */
+  color: #A66321 !important;        /* marrone */
 }
 a:hover, a:focus {
-  color: #B06A3A !important;        /* Marrone Ruggine per l'hover */
+  color: #7AA870 !important;        /* marrone */
 }
 a:active {
-  color: #5AD69E !important;
+  color: #A66321 !important;        /* marrone chiaro */
 }
 
 /* === Titoli === */
 h1, h2, h3, h4, h5, h6 {
-  color: #B06A3A !important;        /* Marrone Ruggine per i titoli */
+  color: #F0EAD6 !important;        /* titoli in bianco */
 }
 
 /* === Header & Footer === */
 .site-header {
-  background: #2A5A4A !important;   /* Verde Bosco */
-  color: #EAE7E1 !important;
+  background: #8C8C8C !important;   /* grigio */
+  color: #F0EAD6 !important;
 }
 .site-footer {
-  background: #2A5A4A !important;   /* Coerente con l'header */
-  color: #EAE7E1 !important;
+  background: #8C8C8C !important;   /* coerente col header */
+  color: #F0EAD6 !important;
 }
 
 /* === Pulsanti o elementi evidenziati === */
 button, .btn, input[type="submit"] {
-  background: #5AD69E !important;   /* Verde Acqua */
-  color: #2A5A4A !important;        /* Testo scuro */
+  background: #8C8C8C !important;   /* grigio */
+  color: #F0EAD6 !important;        /* testo leggibile */
   border: none;
 }
 button:hover, .btn:hover, input[type="submit"]:hover {
-  background: #B06A3A !important;   /* Marrone Ruggine al hover */
+  background: #7AA870 !important;   /* giallo al hover */
 }
