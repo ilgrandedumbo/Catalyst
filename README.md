@@ -51,9 +51,9 @@ Riduzione dell'impronta ecologica e dei rifiuti urbani, risparmio per i cittadin
 ### Credits
 
 Progetto sviluppato da: 
-* Irustra Luis
+* Irusta Luis
 * Moscovici Nadav
 * Pacilli Giosia
 * Papini Niccolò
 * Santovito Chiara
-* Sardelli Chiara
+* Sardelli Sofia
