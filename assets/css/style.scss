@@ -6,3 +6,19 @@ html, body {
   background: #071c07;   /* imposta colore piatto */
   background-image: none ; /* rimuove gradiente */
 }
+
+a,
+a:visited {
+  color: #8D5271;     /* colore base */
+  text-decoration: none;         /* opzionale */
+}
+
+a:hover,
+a:focus {
+  color: #B46D95;     /* un tono più chiaro per hover */
+  text-decoration: underline;    /* effetto al passaggio del mouse */
+}
+
+a:active {
+  color: #5E364D;     /* un tono più scuro quando cliccato */
+}
