@@ -3,18 +3,22 @@
 
 @import "{{ site.theme }}";
 
-/* === Banner hero (parte nera in alto) === */
-.page-header {
-  background: #8C8C8C !important;   /* usa lo stesso grigio dell'header */
-  background-image: none !important; /* elimina il gradiente nero */
+/* === Banner sopra (id=header) === */
+#header {
+  background: #8C8C8C !important;    /* grigio */
+  background-image: none !important; /* elimina gradiente nero */
   color: #F0EAD6 !important;
-  border-bottom: 3px solid #7AA870;  /* opzionale: linea di accento */
+  border-bottom: 3px solid #7AA870;  /* opzionale */
 }
 
-/* Titolo e sottotitolo dentro al banner */
-.page-header h1,
-.page-header h2 {
+/* Testo e link dentro all’header */
+#header h1, 
+#header h2, 
+#header a {
   color: #F0EAD6 !important;
+}
+#header a:hover {
+  color: #7AA870 !important;
 }
 
 /* === Background e testo === */
