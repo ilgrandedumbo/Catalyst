@@ -1,24 +1,37 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
+/* Background globale */
 html, body {
-  background: #071c07;   /* imposta colore piatto */
-  background-image: none ; /* rimuove gradiente */
+  background: #1B3D2F !important;  /* verde scuro */
+  background-image: none !important;
+  color: #E0E0E0;
 }
 
-a,
-a:visited {
-  color: #8D5271;     /* colore base */
-  text-decoration: none;         /* opzionale */
+/* Link */
+a, a:visited {
+  color: #4CAF50 !important;   /* verde riciclo */
 }
-
-a:hover,
-a:focus {
-  color: #B46D95;     /* un tono più chiaro per hover */
-  text-decoration: underline;    /* effetto al passaggio del mouse */
+a:hover, a:focus {
+  color: #FFD600 !important;   /* accento giallo */
 }
-
 a:active {
-  color: #5E364D;     /* un tono più scuro quando cliccato */
+  color: #0288D1 !important;   /* blu acqua */
+}
+
+/* Titoli */
+h1, h2, h3, h4, h5, h6 {
+  color: #4CAF50 !important;   /* verde primario */
+}
+
+/* Footer / header */
+.site-footer {
+  background: #2E7D32 !important; /* verde più scuro */
+  color: #E0E0E0 !important;
+}
+.site-header {
+  background: #8D6E63 !important; /* terra */
+  color: #fff !important;
 }
