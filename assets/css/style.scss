@@ -2,9 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-/* Override colori */
-
-/* Cambia il background generale */
-body {
-  background-color: #05722f !important; /* grigio scuro */
+html, body {
+  background: #05722f !important;   /* imposta colore piatto */
+  background-image: none !important; /* rimuove gradiente */
 }
