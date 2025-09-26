@@ -5,43 +5,43 @@
 
 /* === Background e testo === */
 html, body {
-  background: #567257 !important;   /* verde scuro come sfondo */
+  background: #2E4A28 !important;   /* verde scuro come sfondo */
   background-image: none !important;
-  color: #F2F2F2;                   /* testo chiaro */
+  color: #F0EAD6;                   /* testo chiaro */
 }
 
 /* === Link === */
 a, a:visited {
-  color: #896A58 !important;        /* marrone */
+  color: #A66321 !important;        /* marrone */
 }
 a:hover, a:focus {
-  color: #896A58 !important;        /* marrone */
+  color: #7AA870 !important;        /* marrone */
 }
 a:active {
-  color: #C4977D !important;        /* marrone chiaro */
+  color: #A66321 !important;        /* marrone chiaro */
 }
 
 /* === Titoli === */
 h1, h2, h3, h4, h5, h6 {
-  color: #D9D8D5 !important;        /* titoli in bianco */
+  color: #F0EAD6 !important;        /* titoli in bianco */
 }
 
 /* === Header & Footer === */
 .site-header {
-  background: #ACAB9E !important;   /* grigio */
-  color: #F2F2F2 !important;
+  background: #8C8C8C !important;   /* grigio */
+  color: #F0EAD6 !important;
 }
 .site-footer {
-  background: #ACAB9E !important;   /* coerente col header */
-  color: #F2F2F2 !important;
+  background: #8C8C8C !important;   /* coerente col header */
+  color: #F0EAD6 !important;
 }
 
 /* === Pulsanti o elementi evidenziati === */
 button, .btn, input[type="submit"] {
-  background: #ACAB9E !important;   /* grigio */
-  color: #D9D8D5 !important;        /* testo leggibile */
+  background: #8C8C8C !important;   /* grigio */
+  color: #F0EAD6 !important;        /* testo leggibile */
   border: none;
 }
 button:hover, .btn:hover, input[type="submit"]:hover {
-  background: #D9D8D5 !important;   /* giallo al hover */
+  background: #7AA870 !important;   /* giallo al hover */
 }
