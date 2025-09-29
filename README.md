@@ -17,7 +17,7 @@ Davanti ad un *malfunzionamento*, o alla *necessità di rinnovo*, la soluzione a
 I *servizi di ritiro* sono poco accessibili a chi non è dotato di macchina; la vendita e lo scambio sono difficoltosi per i nuovi arrivati in città. 
 Ci si appella al *“buon senso civico”* del cittadino affinché smaltisca correttamente, senza alcun tipo di incentivo alle azioni sostenibili. Questa situazione genera sprechi, aumenta l'impatto ambientale e priva le comunità di beni che potrebbero essere ancora utili.
 
-EcoLoop propone un*ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
+EcoLoop propone un *ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
 
 ## 2. Quali sono i nostri obiettivi?
 
@@ -36,7 +36,7 @@ Il target di riferimento di EcoLoop è ampio e trasversale. Comprende famiglie a
 - **Smaltimento Facile:** Una volta pubblicato l’annuncio, allo scadere di un tempo prestabilito o su richiesta del venditore, AMSA verrà notificata per avviare la procedura di *raccolta porta a porta* o per indirizzare l’utente verso l’Isola Ecologica più vicina. Viene generata anche una certificazione digitale che attesta l'avvenuto riciclo, utile per raccogliere dati sulla città.
 - **Sistemi di incentivi:** il meccanismo si basa su una *valuta virtuale (punti)* che gli utenti possono guadagnare attraverso le proprie azioni. I punti possono essere utilizzati per acquisti o convertiti in premi sostenibili, come buoni per il trasporto pubblico, sconti presso mercati locali, ingressi a iniziative culturali o altre esperienze a ridotto impatto ambientale.
 - **Community e Gamification:** classifiche, badge e sfide mensili per ottenere punti bonus; eventi di scambio per favorire l’interazione sociale; possibilità di partecipare in squadre (famiglie, classi, team sportivi).
-- **Mappa Interattiva:** aiuta gli utenti a trovare i punti di raccolta e/o a trovare dove un altro utente si trova per effettuare uno scambio
+- **Mappa Interattiva:** aiuta gli utenti a trovare i punti di raccolta e/o a localizzare altri utenti disponibili per uno scambio
 
 ## 5. Benefici
 
