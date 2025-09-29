@@ -46,10 +46,11 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-.wrapper > section > ul > li::marker {
+.wrapper > section > ul > li ul > li::marker {
   display: none;
+  color: transparent;
 }
-.wrapper > section > ul > li > a {
+.wrapper > section > ul > li ul > li > a {
   text-decoration: none;
   color: #525252;
   font-size: 24px;
@@ -59,7 +60,169 @@ body {
   border-radius: 8px;
   transition: background-color 0.3s, color 0.3s;
 }
-.wrapper > section > ul > li > a:hover {
+.wrapper > section > ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li::marker {
+  display: none;
+  color: transparent;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > section > ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li ul > li > a:hover {
   background-color: #333;
   color: #fff;
 }
