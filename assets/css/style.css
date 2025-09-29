@@ -1,8 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #2c2c2c;
+  background-color: #141414;
   color: white;
+  display: flex;
+  padding: 5vw;
+  text-align: center;
 }
 
 #header {
@@ -21,6 +24,18 @@ body {
   color: #FFF;
 }
 
+#title {
+  text-align: center;
+  margin: auto;
+}
+#title > h1 {
+  background-color: transparent;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 48px;
+  color: #FFF;
+}
 #title > span {
   display: none; /*Per non mostrare i credits in alto*/
 }
