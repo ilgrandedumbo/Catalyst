@@ -46,3 +46,20 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+.wrapper > ul > li::marker {
+  display: none;
+}
+.wrapper > ul > li > a {
+  text-decoration: none;
+  color: #525252;
+  font-size: 24px;
+  line-height: 32px;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.wrapper > ul > li > a:hover {
+  background-color: #333;
+  color: #fff;
+}
