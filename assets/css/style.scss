@@ -41,8 +41,8 @@ body
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 56px; /* da 48px a 56px */
-    line-height: 1.6; /* mantenere controllo sull'interlinea del titolo */
+    font-size: 56px; 
+    line-height: 1.6;
     color: #FFF;
   }
   & > span{
@@ -132,4 +132,16 @@ body
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+
+/* Color links in the Index */
+.wrapper h2 + ul a,
+h2 + ul a {
+  color: #e7aa81; /* main index color */
+  text-decoration: none;
+}
+
+.wrapper h2 + ul a:hover,
+h2 + ul a:hover {
+  color: #f7dac7; /* hover state */
 }
