@@ -7,9 +7,8 @@ body
   display: flex; 
   padding: 5vw;
   text-align: left;
-  /* base font sizing and line height */
-  font-size: 18px; /* aumenta la dimensione base del testo */
-  line-height: 1.6; /* aumenta l'interlinea (puoi usare valori unitless o px) */
+  font-size: 20px; /* aumenta la dimensione base del testo */
+  line-height: 1.4;
 }
 
 #header
@@ -43,7 +42,7 @@ body
     font-weight: 400;
     font-style: normal;
     font-size: 56px; /* da 48px a 56px */
-    line-height: 1.1; /* mantenere controllo sull'interlinea del titolo */
+    line-height: 1.6; /* mantenere controllo sull'interlinea del titolo */
     color: #FFF;
   }
   & > span{
@@ -85,8 +84,8 @@ body
       {
         text-decoration: none;
         color: #525252;
-        font-size: 28px; /*  da 24px a 28px */
-        line-height: 36px; /* da 32px a 36px */
+        font-size: 28px;
+        line-height: 36px; 
         display: block;
         padding: 10px;
         border-radius: 8px;
