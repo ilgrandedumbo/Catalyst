@@ -11,9 +11,13 @@
 
 ## 1. Perché EcoLoop?
 
-Le città moderne affrontano una sfida crescente: la **gestione** dei rifiuti urbani. Le nostre case sono sempre più piene di elettrodomestici e oggetti con ciclo di vita relativamente breve. Davanti ad un *malfunzionamento*, o alla *necessità di rinnovo*, la soluzione a minor costo per il cittadino è la sostituzione, che genera nuovi rifiuti. Spesso oggetti ancora in buono stato vengono gettati nei cassonetti, o abbandonati nelle strade. I *servizi di ritiro* sono poco accessibili a chi non è dotato di macchina; la vendita e lo scambio sono difficoltosi per i nuovi arrivati in città. Ci si appella al *“buon senso civico”* del cittadino affinché smaltisca correttamente, senza alcun tipo di incentivo alle azioni sostenibili. Questa situazione genera sprechi, aumenta l'impatto ambientale e priva le comunità di beni che potrebbero essere ancora utili.
+Le città moderne affrontano una sfida crescente: la **gestione** dei rifiuti urbani.
+Le nostre case sono sempre più piene di elettrodomestici e oggetti con ciclo di vita relativamente breve.
+Davanti ad un *malfunzionamento*, o alla *necessità di rinnovo*, la soluzione a minor costo per il cittadino è la sostituzione, che genera nuovi rifiuti. Spesso oggetti ancora in buono stato vengono gettati nei cassonetti, o abbandonati nelle strade.
+I *servizi di ritiro* sono poco accessibili a chi non è dotato di macchina; la vendita e lo scambio sono difficoltosi per i nuovi arrivati in città. 
+Ci si appella al *“buon senso civico”* del cittadino affinché smaltisca correttamente, senza alcun tipo di incentivo alle azioni sostenibili. Questa situazione genera sprechi, aumenta l'impatto ambientale e priva le comunità di beni che potrebbero essere ancora utili.
 
-EcoLoop propone un’*ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
+EcoLoop propone un*ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
 
 ## 2. Quali sono i nostri obiettivi?
 
