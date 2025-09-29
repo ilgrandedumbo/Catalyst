@@ -47,14 +47,57 @@ body
   }
 }
 
-@mixin nested-list($depth: 1, $max-depth: 10) {
-  ul > li {
-    &::marker {
+.wrapper /*Container principale della pagina*/
+{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  & > ul > li 
+  {
+    &::marker
+    {
       display: none;
       color: transparent;
     }
+  }
 
-    > a {
+  & > section > ul > li
+  {
+    &::marker
+    {
+      display: none;
+    }
+
+    & > ul > li
+    {
+      &::marker
+      {
+        display: none;
+      }
+
+      & > a
+      {
+        text-decoration: none;
+        color: #525252;
+        font-size: 24px;
+        line-height: 32px;
+        display: block;
+        padding: 10px;
+        border-radius: 8px;
+        transition: background-color 0.3s, color 0.3s;
+
+        &:hover
+        {
+          background-color: #333;
+          color: #fff;
+        }
+      }
+    }
+
+    & > a
+    {
       text-decoration: none;
       color: #525252;
       font-size: 24px;
@@ -63,30 +106,12 @@ body
       padding: 10px;
       border-radius: 8px;
       transition: background-color 0.3s, color 0.3s;
-
-      &:hover {
-        background-color: #333;
-        color: #fff;
+      
+      &:hover
+      {
+        background-color: #333; 
+        color: #fff; 
       }
     }
-  }
-
-  @if $depth < $max-depth {
-    ul > li {
-      @include nested-list($depth + 1, $max-depth);
-    }
-  }
-}
-
-.wrapper /*Container principale della pagina*/
-{
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-
-  & > section > ul > li
-  {
-    @include nested-list();
   }
 }
