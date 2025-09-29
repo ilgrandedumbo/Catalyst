@@ -1,6 +1,6 @@
 <h1>EcoLoop</h1>
 
-<h2>Table Of Contents</h2>
+<h2>Indice</h2>
 
 - [1. Cosa affronta EcoLoop?](#1-cosa-affronta-ecoloop)
 - [3. Quali sono i nostri obiettivi?](#3-quali-sono-i-nostri-obiettivi)
