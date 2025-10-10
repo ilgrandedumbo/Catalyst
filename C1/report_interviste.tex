@@ -1,0 +1,106 @@
+\documentclass[12pt,a4paper]{article}
+
+% ==== PACCHETTI DI BASE ====
+\usepackage[english,italian]{babel}
+\usepackage[lmargin=2.5cm,rmargin=2.5cm,tmargin=2.5cm,bmargin=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{minted} % Per blocchi di codice (se non serve, puoi toglierlo)
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{csquotes}
+\usepackage{longtable,booktabs,array}
+\usepackage[
+  backend=biber,
+  style=apa
+]{biblatex}
+
+\addbibresource{assets/bib-template.bib}
+
+\setstretch{1.3}
+
+% ==== COLORI E LINK ====
+\definecolor{LightGray}{gray}{0.9}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=maroon,
+  citecolor=blue,
+  urlcolor=blue
+}
+
+% ==== TITOLI ====
+\title{Report Interviste}
+\author{Nome del gruppo / Autore}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+% ==== INTRODUZIONE ====
+\section{Introduzione}
+Questo documento raccoglie e sintetizza le interviste condotte nell'ambito del progetto \textit{[inserire nome progetto]}.  
+L’obiettivo è analizzare i punti di vista degli intervistati, evidenziare temi ricorrenti e trarre conclusioni utili per la fase successiva del lavoro.
+
+% ==== METODOLOGIA ====
+\section{Metodologia}
+Le interviste sono state realizzate tra il \textbf{[data inizio]} e il \textbf{[data fine]}, seguendo una metodologia qualitativa.  
+Sono stati selezionati \textbf{N} partecipanti appartenenti a diverse categorie (specificare ruoli o profili).  
+Le domande si focalizzavano su:
+\begin{itemize}
+  \item [Esempio 1] Comprensione del contesto di utilizzo;
+  \item [Esempio 2] Esperienza d’uso di strumenti attuali;
+  \item [Esempio 3] Necessità e aspettative future.
+\end{itemize}
+
+% ==== INTERVISTE ====
+\section{Sintesi delle Interviste}
+Ogni sottosezione riporta una sintesi strutturata di un'intervista individuale.
+
+\subsection{Intervista 1 – Nome intervistato / ruolo}
+\textbf{Data:} 12 settembre 2025  
+\textbf{Luogo / modalità:} Online su Zoom  
+\textbf{Durata:} 45 minuti
+
+\paragraph{Domande chiave}
+\begin{enumerate}
+  \item Qual è il suo ruolo principale nell'organizzazione?
+  \item Quali difficoltà incontra più spesso nel suo lavoro?
+  \item Come valuta gli strumenti attualmente in uso?
+\end{enumerate}
+
+\paragraph{Sintesi delle risposte}
+L’intervistato ha evidenziato che [...].  
+Punti principali emersi:
+\begin{itemize}
+  \item Necessità di migliorare [...]
+  \item Apprezzamento per [...]
+  \item Suggerimenti: [...]
+\end{itemize}
+
+\subsection{Intervista 2 – Nome intervistato / ruolo}
+(Stesso formato della precedente.)
+
+% ==== ANALISI TRASVERSALE ====
+\section{Analisi Trasversale}
+In questa sezione vengono messi a confronto i risultati delle interviste, individuando temi comuni e divergenze.  
+\begin{itemize}
+  \item Tema 1: ...
+  \item Tema 2: ...
+  \item Differenze di opinione: ...
+\end{itemize}
+
+% ==== CONCLUSIONI ====
+\section{Conclusioni}
+Riepilogo finale delle evidenze principali e delle implicazioni per il progetto.
+
+% ==== BIBLIOGRAFIA ====
+\newpage
+\printbibliography
+
+\end{document}
