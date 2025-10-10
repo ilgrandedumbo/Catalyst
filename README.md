@@ -1,76 +1,54 @@
-<h1>ReThirft</h1>
+<h1>EcoLoop</h1>
 
-<h2>Table Of Contents</h2>
+<h2>Indice</h2>
 
-- [1. Title](#1-title)
-- [2. The Problem We’re Tackling](#2-the-problem-we-re-tackling)
-- [3. Our Goals](#3-our-goals)
-- [4. Target Audience](#4-target-audiance)
-- [5. Key Features](#5-key-features)
-- [6. Benefits](#6-benefits)
-  - [Credits](#credits)
+- [1. Perché EcoLoop?](#1-perché-ecoloop)
+- [2. Quali sono i nostri obiettivi?](#2-quali-sono-i-nostri-obiettivi)
+- [3. Target](#3-target)
+- [4. Funzionalità Chiave](#4-funzionalità-chiave)
+- [5. Benefici](#5-benefici)
+- [Crediti](#crediti)
 
-## 1. Title
+## 1. Perché EcoLoop?
 
-The title is designed to immediately express the project’s mission: “(Re)cycle and (Thrift) your items.”  
-> The name is temporary and may change as the project evolves.
+Le città moderne affrontano una sfida crescente: la **gestione** dei rifiuti urbani.
+Le nostre case sono sempre più piene di elettrodomestici e oggetti con ciclo di vita relativamente breve.
+Davanti ad un *malfunzionamento*, o alla *necessità di rinnovo*, la soluzione a minor costo per il cittadino è la sostituzione, che genera nuovi rifiuti. Spesso oggetti ancora in buono stato vengono gettati nei cassonetti, o abbandonati nelle strade.
+I *servizi di ritiro* sono poco accessibili a chi non è dotato di macchina; la vendita e lo scambio sono difficoltosi per i nuovi arrivati in città. 
+Ci si appella al *“buon senso civico”* del cittadino affinché smaltisca correttamente, senza alcun tipo di incentivo alle azioni sostenibili. Questa situazione genera sprechi, aumenta l'impatto ambientale e priva le comunità di beni che potrebbero essere ancora utili.
 
-## 2. The Problem We’re Tackling
+EcoLoop propone un *ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
 
-Modern cities face an ever-growing challenge: urban waste management. Items still in good condition often end up in dumpsters, while citizens lack strong incentives to recycle and reuse.  
-In many cities, beyond a basic waste collection fee, an additional tax is charged based on the quantity of waste produced. This has fueled a rise in illegally abandoned black garbage bags on the streets.  
-The result: more waste, greater environmental impact, and communities losing access to goods that could still be useful.  
+## 2. Quali sono i nostri obiettivi?
 
-Our solution is to create an **ecosystem** that combines the idea of a **Thrift Store** with the logic of **Incentivized Recycling**, turning a duty into a rewarding, sustainable, and socially enriching experience.
+- **Ridurre** i rifiuti urbani ingombranti promuovendo sia lo smaltimento corretto che il riuso e recupero.
+- Incentivare i cittadini tramite un **sistema di punti** (moneta virtuale), con cui comprare beni da altri utenti, oppure riscattare dei premi offerti da aziende del territorio, enti di trasporti pubblici, musei e attività culturali. (sistema ispirato a Microsoft Rewards).
+- Promuovere **condivisione e solidarietà**, educando al riciclo e trasformando la sostenibilità  in un’abitudine quotidiana.
+- Semplificare l’**accesso ai servizi locali** rendendo più immediata la raccolta porta a porta e l’utilizzo delle isole ecologiche.
 
-## 3. Our Goals
+## 3. Target
 
-1. Reduce urban waste by either promoting proper disposal or giving items a second life.  
-2. Motivate citizens through a points-based system, allowing them to purchase goods from others or redeem rewards of various kinds (inspired by [Microsoft Rewards](https://rewards.bing.com)).  
-3. Encourage sharing by fostering exchange and solidarity among community members.  
-4. Educate on recycling, making sustainability a natural habit rather than a forced obligation.  
+Il target di riferimento di EcoLoop è ampio e trasversale. Comprende famiglie attente al risparmio e alla riduzione degli sprechi, cittadini in possesso di oggetti non più utili, giovani interessati a modelli di consumo circolari e appassionati di oggetti vintage e unici.
 
-## 4. Target Audience
+## 4. Funzionalità Chiave
 
-Our potential audience includes:  
-- Families seeking to cut waste and expenses.  
-- People with items that are no longer useful to them but still functional.  
-- Environmentally conscious citizens.  
-- Young people curious about circular consumption and social experiences.  
-- Individuals looking for unique or rare items.  
-- People dissatisfied with paying extra based on the volume of their waste.  
-- Anyone simply waiting for the right motivation to start recycling.  
+- **Marketplace Circolare:** Piattaforma dedicata alla vendita e allo *scambio* di oggetti ancora utilizzabili, con possibilità di ricerca avanzata per categoria o per stato di conservazione dell’articolo.
+- **Smaltimento Facile:** Una volta pubblicato l’annuncio, allo scadere di un tempo prestabilito o su richiesta del venditore, AMSA verrà notificata per avviare la procedura di *raccolta porta a porta* o per indirizzare l’utente verso l’Isola Ecologica più vicina. Viene generata anche una certificazione digitale che attesta l'avvenuto riciclo, utile per raccogliere dati sulla città.
+- **Sistemi di incentivi:** il meccanismo si basa su una *valuta virtuale (punti)* che gli utenti possono guadagnare attraverso le proprie azioni. I punti possono essere utilizzati per acquisti o convertiti in premi sostenibili, come buoni per il trasporto pubblico, sconti presso mercati locali, ingressi a iniziative culturali o altre esperienze a ridotto impatto ambientale.
+- **Community e Gamification:** classifiche, badge e sfide mensili per ottenere punti bonus; eventi di scambio per favorire l’interazione sociale; possibilità di partecipare in squadre (famiglie, classi, team sportivi).
+- **Mappa Interattiva:** aiuta gli utenti a trovare i punti di raccolta e/o a localizzare altri utenti disponibili per uno scambio
 
-## 5. Key Features
+## 5. Benefici
 
-1. **Circular Marketplace**  
-   A platform to buy and sell reusable items, searchable by category or condition.  
+Il progetto mira a ridurre l’impronta ecologica e la produzione di rifiuti, generando risparmi economici per i cittadini. Crea **nuove opportunità** per le aziende partner, valorizzandone l’impegno sostenibile. Rafforza i **legami sociali** all’interno della comunità, stimolando collaborazione e senso di appartenenza. Infine, promuove una **percezione attiva** e partecipata del cambiamento, trasformando la sostenibilità in un’abitudine condivisa.
 
-2. **Incentive System**  
-   A virtual currency (points) that can be redeemed as gift cards, used for purchases, or transferred to other users in exchange for items.  
+## Crediti
 
-3. **Incentivized Recycling**  
-   Partnerships with recycling centers and collection facilities. Users receive a digital receipt to certify completed recycling.  
+**Progetto sviluppato da:**
 
-4. **Community & Gamification**  
-   Leaderboards, badges, and monthly challenges to earn bonus points. Swap events encourage real-world social interaction.  
-
-5. **Interactive Map**  
-   A user-friendly map to locate recycling points or connect with other users for exchanges.  
-
-## 6. Benefits
-
-- Lower ecological footprint and less urban waste.  
-- Savings for citizens and opportunities for partner companies.  
-- Stronger community bonds through shared participation.  
-- A more active and positive perception of change.  
-
-### Credits
-
-Project developed by:  
-* Irustra Luis  
-* Moscovici Nadav  
-* Pacilli Giosia  
-* Papini Niccolò  
-* Santovito Chiara  
-* Sardelli Chiara  
+- Irusta Luis
+- Moscovici Nadav
+- Pacilli Giosia
+- Papini Niccolò
+- Santovito Chiara
+- Sardelli Sofia
