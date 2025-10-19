@@ -52,4 +52,3 @@ Il progetto mira a ridurre l’impronta ecologica e la produzione di rifiuti, ge
 - Papini Niccolò
 - Santovito Chiara
 - Sardelli Sofia
-prova
