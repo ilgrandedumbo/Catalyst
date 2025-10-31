@@ -54,3 +54,5 @@ Il progetto mira a ridurre l’impronta ecologica e la produzione di rifiuti, ge
 - Papini Niccolò
 - Santovito Chiara
 - Sardelli Sofia
+
+<a href="ilgrandedumbo.github.io/C1/EcoLoop_HW_1_Presentazione.pdf" target="_blank">HW1.</a>
