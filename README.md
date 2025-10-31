@@ -55,4 +55,4 @@ Il progetto mira a ridurre l’impronta ecologica e la produzione di rifiuti, ge
 - Santovito Chiara
 - Sardelli Sofia
 
-<a href="https://github.com/ilgrandedumbo/Catalyst/blob/main/C1/EcoLoop_HW1_Presentazione.pdf" target="_blank">HW1.</a>
+<a href="https://ilgrandedumbo.github.io/Catalyst/C1/EcoLoop_HW1_Presentazione.pdf" target="_blank">HW1.</a>
