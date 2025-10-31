@@ -1,15 +1,17 @@
-<h1>EcoLoop</h1>
+<h1>REE</h1>
 
 <h2>Indice</h2>
 
-- [1. Perché EcoLoop?](#1-perché-ecoloop)
+- [1. Perché REE?](#1-perché-ecoloop)
 - [2. Quali sono i nostri obiettivi?](#2-quali-sono-i-nostri-obiettivi)
 - [3. Target](#3-target)
 - [4. Funzionalità Chiave](#4-funzionalità-chiave)
 - [5. Benefici](#5-benefici)
 - [Crediti](#crediti)
 
-## 1. Perché EcoLoop?
+## 1. Perché REE?
+
+REE (Recycle, Exchange and Earn).
 
 Le città moderne affrontano una sfida crescente: la **gestione** dei rifiuti urbani.
 Le nostre case sono sempre più piene di elettrodomestici e oggetti con ciclo di vita relativamente breve.
