@@ -15,8 +15,6 @@
 *.cb2
 .*.lb
 
-### Typst ###
-*.typ
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
