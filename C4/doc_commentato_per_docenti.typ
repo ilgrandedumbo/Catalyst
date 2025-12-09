@@ -13,7 +13,7 @@
 \
 \
 \
-#link("https://happy-coast-67456315.figma.site")[Link all'app]
+#link("https://happy-coast-67456315.figma.site")
 
 #set heading(numbering: "1.")
 #set page(
