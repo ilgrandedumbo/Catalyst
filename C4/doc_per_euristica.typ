@@ -1,7 +1,15 @@
+
+#align(center)[= Documento per la valutazione euristica]
+#set heading(numbering: "1.")
+#set page(
+  paper: "a4",
+  margin: (x: 3cm, y: 2cm),
+)
+
+#pagebreak()
+#outline()
 #text(font: "Times New Roman")[
   
-  #align(center)[= Documento per la valutazione euristica]
-
   #set heading(numbering: "1.1.1.1")
   #pagebreak()
 
