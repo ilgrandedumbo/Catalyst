@@ -7,7 +7,7 @@
 )
 
 #pagebreak()
-#text(font: "Times New Roman")[
+#text(font: "Linux Biolinum")[
   
   #set heading(numbering: "1.1.1.1")
   #pagebreak()
