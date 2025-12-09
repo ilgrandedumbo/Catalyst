@@ -7,7 +7,6 @@
 )
 
 #pagebreak()
-#outline()
 #text(font: "Times New Roman")[
   
   #set heading(numbering: "1.1.1.1")
