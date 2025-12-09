@@ -1,48 +1,23 @@
 <h1>REE</h1>
 
-<h2>Indice</h2>
-
-- [1. Perché REE?](#1-perché-ecoloop)
-- [2. Quali sono i nostri obiettivi?](#2-quali-sono-i-nostri-obiettivi)
-- [3. Target](#3-target)
-- [4. Funzionalità Chiave](#4-funzionalità-chiave)
-- [5. Benefici](#5-benefici)
-- [Crediti](#crediti)
-
-## 1. Perché REE?
-
-REE (Recycle, Exchange and Earn).
-
-Le città moderne affrontano una sfida crescente: la **gestione** dei rifiuti urbani.
-Le nostre case sono sempre più piene di elettrodomestici e oggetti con ciclo di vita relativamente breve.
-Davanti ad un *malfunzionamento*, o alla *necessità di rinnovo*, la soluzione a minor costo per il cittadino è la sostituzione, che genera nuovi rifiuti. Spesso oggetti ancora in buono stato vengono gettati nei cassonetti, o abbandonati nelle strade.
-I *servizi di ritiro* sono poco accessibili a chi non è dotato di macchina; la vendita e lo scambio sono difficoltosi per i nuovi arrivati in città. 
-Ci si appella al *“buon senso civico”* del cittadino affinché smaltisca correttamente, senza alcun tipo di incentivo alle azioni sostenibili. Questa situazione genera sprechi, aumenta l'impatto ambientale e priva le comunità di beni che potrebbero essere ancora utili.
-
-EcoLoop propone un *ecosistema* che combina il concetto di **Thrift Store** con la logica di **Riciclo Incentivato**, creando un *loop* trasformando un dovere in un'esperienza gratificante, sostenibile e socialmente arricchente.
-
-## 2. Quali sono i nostri obiettivi?
-
-- **Ridurre** i rifiuti urbani ingombranti promuovendo sia lo smaltimento corretto che il riuso e recupero.
-- Incentivare i cittadini tramite un **sistema di punti** (moneta virtuale), con cui comprare beni da altri utenti, oppure riscattare dei premi offerti da aziende del territorio, enti di trasporti pubblici, musei e attività culturali. (sistema ispirato a Microsoft Rewards).
-- Promuovere **condivisione e solidarietà**, educando al riciclo e trasformando la sostenibilità  in un’abitudine quotidiana.
-- Semplificare l’**accesso ai servizi locali** rendendo più immediata la raccolta porta a porta e l’utilizzo delle isole ecologiche.
-
-## 3. Target
-
-Il target di riferimento di EcoLoop è ampio e trasversale. Comprende famiglie attente al risparmio e alla riduzione degli sprechi, cittadini in possesso di oggetti non più utili, giovani interessati a modelli di consumo circolari e appassionati di oggetti vintage e unici.
-
-## 4. Funzionalità Chiave
-
-- **Marketplace Circolare:** Piattaforma dedicata alla vendita e allo *scambio* di oggetti ancora utilizzabili, con possibilità di ricerca avanzata per categoria o per stato di conservazione dell’articolo.
-- **Smaltimento Facile:** Una volta pubblicato l’annuncio, allo scadere di un tempo prestabilito o su richiesta del venditore, AMSA verrà notificata per avviare la procedura di *raccolta porta a porta* o per indirizzare l’utente verso l’Isola Ecologica più vicina. Viene generata anche una certificazione digitale che attesta l'avvenuto riciclo, utile per raccogliere dati sulla città.
-- **Sistemi di incentivi:** il meccanismo si basa su una *valuta virtuale (punti)* che gli utenti possono guadagnare attraverso le proprie azioni. I punti possono essere utilizzati per acquisti o convertiti in premi sostenibili, come buoni per il trasporto pubblico, sconti presso mercati locali, ingressi a iniziative culturali o altre esperienze a ridotto impatto ambientale.
-- **Community e Gamification:** classifiche, badge e sfide mensili per ottenere punti bonus; eventi di scambio per favorire l’interazione sociale; possibilità di partecipare in squadre (famiglie, classi, team sportivi).
-- **Mappa Interattiva:** aiuta gli utenti a trovare i punti di raccolta e/o a localizzare altri utenti disponibili per uno scambio
-
-## 5. Benefici
-
-Il progetto mira a ridurre l’impronta ecologica e la produzione di rifiuti, generando risparmi economici per i cittadini. Crea **nuove opportunità** per le aziende partner, valorizzandone l’impegno sostenibile. Rafforza i **legami sociali** all’interno della comunità, stimolando collaborazione e senso di appartenenza. Infine, promuove una **percezione attiva** e partecipata del cambiamento, trasformando la sostenibilità in un’abitudine condivisa.
+“Recycle, Exchange, Enjoy!”. Il nostro progetto nasce per risolvere una problematica precisa
+nell’ambito dell’Economia Circolare Urbana: il riuso e lo scambio sostenibile, sebbene siano
+ottime idee, incontrano spesso ostacoli pratici che sembrano insormontabili. Le nostre ricerche
+iniziali hanno rivelato che queste difficoltà hanno una duplice natura. Da un lato, esiste una
+complessità operativa: confusione sui centri di smaltimento (il 38,7% degli utenti del nostro
+sondaggio non sa dove si trovi l’isola ecologica) e “regole rigide”, come evidenziato dall’
+utente-guida intervistato. Dall’altro lato,un problema più profondo, quasi di solitudine: le
+attuali soluzioni digitali sono spesso transazionali, fredde, e trascurano un bisogno
+fondamentale emerso con forza dalle nostre interviste. A questa criticità si affianca
+un’ulteriore difficoltà emersa dalla ricerca: sebbene gli eventi di scambio siano momenti sociali
+e inclusivi, la loro organizzazione e fruizione risultano complesse e poco immediate. Per molti
+utenti, infatti, la scoperta degli eventi, la comprensione delle modalità di partecipazione, il
+trasporto degli oggetti o la gestione delle comunicazioni con gli organizzatori e gli altri
+partecipanti costituiscono un carico aggiuntivo che spesso scoraggia la partecipazione. REE
+permette agli utenti di scoprire facilmente gli swap party più adatti, filtrare le proposte in base
+alle proprie esigenze, gestire i gettoni (crediti per dare/prendere oggetti, ricevere notifiche
+intelligenti, coordinare il supporto logistico (offerto dalla community), e comunicare
+direttamente con gli organizzatori.
 
 ## Crediti
 
