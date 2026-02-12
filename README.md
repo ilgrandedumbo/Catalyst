@@ -1,3 +1,6 @@
+
+[Link Prototipo Hi-Fi](https://happy-coast-67456315.figma.site)
+
 <h1>REE</h1>
 
 “Recycle, Exchange, Enjoy!”. Il nostro progetto nasce per risolvere una problematica precisa
@@ -29,5 +32,3 @@ direttamente con gli organizzatori.
 - Papini Niccolò
 - Santovito Chiara
 - Sardelli Sofia
-
-<a href="https://ilgrandedumbo.github.io/Catalyst/C1/EcoLoop_HW1_Presentazione.pdf" target="_blank">HW1.</a>
